@@ -8,6 +8,7 @@
   "bin": {
     "git-select-recent": "./git-select-recent"
   },
+  "repository": "mruzekw/git-select-recent",
   "dependencies": {
     "child-process-promise": "^2.2.1",
     "prompt-list": "^2.2.0",
