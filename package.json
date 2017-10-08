@@ -1,0 +1,13 @@
+{
+  "name": "git-select-recent",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Will Mruzek",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "child-process-promise": "^2.2.1",
+    "prompt-list": "^2.2.0",
+    "yargs": "^9.0.1"
+  }
+}
