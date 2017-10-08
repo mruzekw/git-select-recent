@@ -19,7 +19,8 @@ Use arrow keys to select branch, press enter to checkout
  - `-a` Select branch from all remote and local branches
 
 # Prior Art
-[paulirish/git-recent](https://github.com/paulirish/git-recent)
-[jhermsmeier/git-branch-select](https://github.com/jhermsmeier/git-branch-select)
-[JonathanUsername/git-select](https://github.com/JonathanUsername/git-select)
-[alexkuz/git-swap](https://github.com/alexkuz/git-swap)
+
+ - [paulirish/git-recent](https://github.com/paulirish/git-recent)
+ - [jhermsmeier/git-branch-select](https://github.com/jhermsmeier/git-branch-select)
+ - [JonathanUsername/git-select](https://github.com/JonathanUsername/git-select)
+ - [alexkuz/git-swap](https://github.com/alexkuz/git-swap)
