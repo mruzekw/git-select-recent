@@ -3,7 +3,7 @@
 ```bash
 npm install -g git-select-recent
 ```
-Note: You global node_modules must be in your PATH.
+Note: Global node_modules must be in your PATH.
 
 # Usage
 
