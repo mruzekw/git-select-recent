@@ -1,6 +1,6 @@
 {
   "name": "git-select-recent",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "./git-select-recent",
   "author": "Will Mruzek",
   "license": "MIT",
