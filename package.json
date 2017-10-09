@@ -9,9 +9,16 @@
     "git-select-recent": "./git-select-recent"
   },
   "repository": "mruzekw/git-select-recent",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "child-process-promise": "^2.2.1",
     "prompt-list": "^2.2.0",
     "yargs": "^9.0.1"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1",
+    "mock-stdin": "^0.3.1"
   }
 }
